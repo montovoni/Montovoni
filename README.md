@@ -1,8 +1,11 @@
-#### Seja bem vindo, me chamo Douglas Montovoni!
+#### Olá pessoal!
+
+Eu sou o Douglas, um entusiasta da tecnologia e estudante de bacharelado em Sistemas de Informações. Atualmente, estou realizando um estágio na empresa Tron Informatica, onde tenho a oportunidade de aplicar meus conhecimentos e aprender com profissionais experientes.
+
+A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi uma verdadeira paixão por ela. Estou constantemente atualizado sobre as últimas tendências e avanços na área de TI, e estou ansioso para contribuir para soluções inovadoras
 <div>
 
 ![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montovoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Competências
@@ -16,5 +19,5 @@
 [![Blog](https://img.shields.io/website?label=Montovoni.com.br&style=for-the-badge&url=https://montovoni.com.br/)](https://montovoni.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_montovoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-montovoni/)
-    
+
 </div>
