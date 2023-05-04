@@ -1,16 +1,18 @@
-### Hi there 👋
+#### Seja bem vindo, me chamo Douglas Montovoni!
 
-<!--
-**Montovoni/Montovoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=Montovoni.com.br&style=for-the-badge&url=https://montovoni.com.br/)](https://montovoni.com.br/)
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_montovoni/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula)
+
+![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+
+## Competências
+
+<div style="display: inline_block">
+<img align="center" alt="Git" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="Git" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    
+</div>
