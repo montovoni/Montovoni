@@ -1,4 +1,3 @@
-#### Olá pessoal!
 
 Eu sou o Douglas, um entusiasta da tecnologia e estudante de bacharelado em Sistemas de Informações. Atualmente, estou realizando um estágio na empresa Tron Informatica, onde tenho a oportunidade de aplicar meus conhecimentos e aprender com profissionais experientes.
 
