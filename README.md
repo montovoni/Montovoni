@@ -5,7 +5,7 @@ A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi
 
 <div>
 
-<!-- ![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula) -->
+![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=transparent)
 
@@ -23,8 +23,6 @@ A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
-
-![Snake animation](https://github.com/montovoni/montovoni/blob/output/github-contribution-grid-snake.svg)
 
  <!-- ## Redes Sociais
 
