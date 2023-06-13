@@ -3,11 +3,16 @@ Eu sou o Douglas, um entusiasta da tecnologia e estudante de bacharelado em Sist
 
 A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi uma verdadeira paixão por ela. Estou constantemente atualizado sobre as últimas tendências e avanços na área de TI, e estou ansioso para contribuir para soluções inovadoras
 
+ 
+<div align="center">
+  <a href="https://github.com/mendax-sh">
+ <!--![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula) -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montovoni&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montovoni&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 <div>
 
-<!--![Montovoni GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=dracula) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montovoni&show_icons=true&theme=transparent)
- 
 ## Competências
 [![Blog](https://img.shields.io/website?label=Montovoni.com.br&style=for-the-badge&url=https://montovoni.com.br/)](https://montovoni.com.br/)
 
