@@ -16,7 +16,6 @@ A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi
  <img align="center" alt="Git" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
 </p>
  <img align="center" alt="Git" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
