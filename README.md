@@ -23,7 +23,6 @@ A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi
  <!-- ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_montovoni/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-montovoni/)  -->
-
-  ![Snake animation](https://github.com/montovoni/montovoni/blob/output/github-contribution-grid-snake.svg)    
+  
 </div>
 
