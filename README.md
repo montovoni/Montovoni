@@ -24,6 +24,7 @@ A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi
 
 </p>
 
+![Snake animation](https://github.com/montovoni/montovoni/blob/output/github-contribution-grid-snake.svg)
 
  <!-- ## Redes Sociais
 
