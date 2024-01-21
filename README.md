@@ -1,5 +1,5 @@
 
-Eu sou o Douglas, um entusiasta da tecnologia e estudante de bacharelado em Sistemas de Informações. Atualmente, estou realizando um estágio na empresa Tron Informatica, onde tenho a oportunidade de aplicar meus conhecimentos e aprender com profissionais experientes.
+Eu sou o Douglas, um entusiasta da tecnologia e estudante de bacharelado em Sistemas de Informações. Atualmente, estou empresa Tron Informatica, onde tenho a oportunidade de aplicar meus conhecimentos e aprender com profissionais experientes.
 
 A tecnologia sempre despertou minha curiosidade e, ao longo dos anos, desenvolvi uma verdadeira paixão por ela. Estou constantemente atualizado sobre as últimas tendências e avanços na área de TI, e estou ansioso para contribuir para soluções inovadoras
 
